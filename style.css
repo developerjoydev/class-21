@@ -1,0 +1,213 @@
+.logo h3 {
+    color: #2277fc;
+    margin-right: 70px;
+}
+
+.menu-btn {
+    border: 1px solid #004ee3;
+    color: #004ee3;
+}
+
+.menu-btn:hover {
+    background-color: #004ee3;
+    color: #fff;
+}
+
+.banner-img img {
+    height: 600px;
+}
+
+.banner-caption {
+    margin-bottom: 260px;
+}
+
+.tamnil-img {}
+
+.tamnil-img img {
+    border: 1px solid #efefef;
+}
+
+.tabmil-contant {}
+
+.tabmil-contant {}
+
+.tabmil-contant h1 {}
+
+.tabmil-contant p {
+    margin: 10px 0 0;
+}
+
+.tabmil-contant small {
+    color: #8599b0;
+}
+
+/* Table And Contact Section */
+.table-contact {
+    background-color: #f8f9fa;
+}
+
+.bootstrip-table h4 {
+    color: #308d57;
+    margin-bottom: 30px;
+}
+
+.bootstrip-table table {
+    width: 100%;
+    border: 1px solid #dddd;
+}
+
+.bootstrip-table table td {
+    border: 1px solid #dadada;
+    padding: 10px;
+}
+
+.bootstrip-table table th {
+    border: 1px solid #dadada;
+    padding: 10px;
+}
+
+.bootstrip-table table tr:nth-child(2) {
+    background-color: #c5d7f2;
+    transition: .5s;
+}
+.bootstrip-table table tr:nth-child(2):hover {
+    background-color: #7e92ae;
+}
+
+.bootstrip-table table tr:nth-child(3) {
+    background-color: #e2e3e5;
+    transition: .5s;
+}
+.bootstrip-table table tr:nth-child(3):hover {
+    background-color: #909293;
+}
+
+.bootstrip-table table tr:nth-child(4) {
+    background-color: #c7dbd2;
+    transition: .5s;
+}
+.bootstrip-table table tr:nth-child(4):hover {
+    background-color: #7f948c;
+}
+
+.bootstrip-table table tr:nth-child(5) {
+    background-color: #f8d7da;
+    transition: .5s;
+}
+.bootstrip-table table tr:nth-child(5):hover {
+    background-color: #a88a89;
+}
+
+.bootstrip-table table tr:nth-child(6) {
+    background-color: #f2e7c3;
+    transition: .5s;
+}
+.bootstrip-table table tr:nth-child(6):hover {
+    background-color: #a99c77;
+}
+
+.bootstrip-table table tr:nth-child(7) {
+    background-color: #cff4fc;
+    transition: .5s;
+}
+.bootstrip-table table tr:nth-child(7):hover {
+    background-color: #7a9da6;
+}
+
+.bootstrip-table table tr:nth-child(8) {
+    background-color: #ecedee;
+    transition: .5s;
+}
+.bootstrip-table table tr:nth-child(8):hover {
+    background-color: #9ea0a1;
+    
+}
+
+.bootstrip-table table tr:nth-child(9) {
+    background-color: #cfe2ff;
+    transition: .5s;
+}
+.bootstrip-table table tr:nth-child(9):hover {
+    background-color: #7e92ae;
+}
+
+.bootstrip-table table tr:nth-child(10) {
+    background-color: #c7dbd2;
+    transition: .5s;
+}
+.bootstrip-table table tr:nth-child(10):hover {
+    background-color: #7f948c;
+}
+
+.contact-form {
+    margin-left: 40px;
+}
+
+.contact-form h4 {
+    color: #308d57;
+    margin-bottom: 30px;
+}
+
+.contact-form h5 {
+
+    padding: 0px 10px;
+}
+
+.checkboxx {
+    margin: 0;
+    padding: 0 37px;
+}
+
+.contact-form form select {
+    margin-left: 8px;
+    width: 96%;
+}
+
+.contact-form button {
+    background-color: #198754 !important;
+    border: none;
+    padding: 10px 48px;
+    margin-left: -18px;
+    margin-top: 20px;
+}
+
+.custom-card h5 {
+    font-size: 22px;
+}
+
+.custom-card img {
+    padding: 10px 10px 0;
+    height: 400px;
+}
+
+.custom-card-body {
+    padding: 8px 13px;
+} 
+
+.custom-card-body p {}
+
+.custom-progress-bar {
+    margin-top: 45px;
+}
+
+.custom-progress-bar p {
+    margin: 0px;
+    margin-bottom: 9px;
+}
+.section6{
+    background-color: #f8f9fa;
+}
+.stretched-title{}
+.stretched-title h3{
+    color: #218754;
+}
+.stretch-card{
+    border-radius: 0;
+}
+.stretch-card img{
+    border-radius: 0;
+}
+
+footer p{
+    color: #dddd;
+}
